@@ -9,3 +9,72 @@ rtrwg
 4wurhfoh
 weoqij
 fwi3
+
+ 1  clear
+    2  git init
+    3  git --version
+    4  pwd
+    5  cd /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+    6  cd test_app
+    7  cd /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+    8  code test_app
+    9  git init
+   10  sudo umount /mnt/c\nsudo mount -t drvfs C: /mnt/c -o metadata
+   11  git init
+   12  gaa
+   13  git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy/test_app
+   14  git commit -m "test_repo"
+   15  git config --global user.email "mirvosidmiraxmedov7@gmail.com"
+   16  git config --global user.name "Mirvosid"
+   17  git config --global user.email "mirvosidmiraxmedov7@gmail.com" git config --global user.name "Mirvosid"
+   18  git commit -m "test_repo"
+   19  gaa
+   20  git commit -m "srt uo git commit"
+   21  git remote add origin https://github.com/Mirvosid/test_repo.git
+   22* sudo umount /mnt/c\nsudo mount -t drvfs C: /mnt/c -o metadata
+   23* git init
+   24* sudo umount /mnt/c\nsudo mount -t drvfs C: /mnt/c -o metadata
+   25* ggpush
+   26* git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+   27* ggpush
+   28* git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+   29* git push
+   30* git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+   31* git push
+   32* git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+   33* ggpush
+   34* git pull
+   35* git branch -M main
+   36* git pul
+   37* git branch -M main
+   38* git pull
+   39* git branch -M main
+   40* git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+   41* ggpush
+   42* git pull origin [branch]
+   43* git config --global --add safe.directory /mnt/c/NajotTalim/Groups/PythonN_15/Python4-oy
+   44* ggpush
+   45* git pull origin main
+   46* git push -u origin main
+   47* git pull --rebase
+   48* git pull --rebase origin main
+   49* git remote add origin https://github.com/Mirvosid/test_repo.git
+   50* ggpush
+   51* git push -u origin main
+   52  git remote add origin https://github.com/Mirvosid/test_repo.git
+   53  ggpush
+   54  git remote add origin https://github.com/Mirvosid/test_repo.git
+   55* ggpush
+   56  git remote add origin https://github.com/Mirvosid/test_repo.git
+   57  ggpush
+   58  git remote add origin https://github.com/Mirvosid/test_repo.git
+   59  ggpush
+   60  gaa
+   61  gcmsg "test2"
+   62  git push
+   63  ggpush
+   64  git remote add origin https://github.com/Mirvosid/test_repo.git
+   65  ggpush
+   66  gaa
+   67  git commit -m "test_repo"
+   68  ggpush
